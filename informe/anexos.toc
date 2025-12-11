@@ -1,0 +1,17 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Código del Pipeline de Machine Learning}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Módulo de Constantes (constants.py)}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Módulo de Preprocesamiento (preprocess.py)}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Módulo de Modelado (modeling.py)}{4}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Código del Backend (FastAPI)}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Endpoints Principales (main.py)}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Esquemas Pydantic (schemas.py)}{7}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Configuración de Docker}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Dockerfile del Backend}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Dockerfile del Frontend}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Docker Compose}{8}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Lista Completa de Características Extraídas}{10}{section.4}%
+\contentsline {section}{\numberline {5}Dependencias del Proyecto}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Dependencias de Machine Learning (ml/requirements.txt)}{11}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Dependencias del Backend (backend/requirements.txt)}{11}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Dependencias del Frontend (frontend/package.json)}{11}{subsection.5.3}%
