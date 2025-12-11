@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1765433957.42519 "/home/luckas/Repositorios/tallerfinal/informe/informe.tex" "build/informe.pdf" "informe" 1765433958.09964 0
-  "/home/luckas/Repositorios/tallerfinal/informe/informe.tex" 1765433956.53102 27725 e048754c99bc2a6d8910df81459d96e3 ""
+["pdflatex"] 1765434426.16575 "/home/luckas/Repositorios/tallerfinal/informe/informe.tex" "build/informe.pdf" "informe" 1765434426.85764 0
+  "/home/luckas/Repositorios/tallerfinal/informe/informe.tex" 1765434289.59491 27729 d8d12490b4b161673e149dff7feb7b38 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1755987285 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1755987285 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1755987285 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -212,10 +212,10 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1755987285 42087 b0f9697c952c8f5a8eede4134282cb0d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1763312822 5311557 9da84c45f5b388655502706482323571 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1763312812 2008248 7f07bcb23b0d47e4fa174dd1469ba5d9 ""
-  "build/informe.aux" 1765433958.01507 8590 1eb75dc6ebda6f98b272f2e9a8d3dcc6 "pdflatex"
-  "build/informe.out" 1765433958.01553 8712 e105287088da17b3cfc08ffdc39e2cf5 "pdflatex"
-  "build/informe.toc" 1765433958.01659 4305 c971ef8afebbad999379328f6f0069b1 "pdflatex"
-  "informe.tex" 1765433956.53102 27725 e048754c99bc2a6d8910df81459d96e3 ""
+  "build/informe.aux" 1765434426.77028 8590 1eb75dc6ebda6f98b272f2e9a8d3dcc6 "pdflatex"
+  "build/informe.out" 1765434426.77046 8712 e105287088da17b3cfc08ffdc39e2cf5 "pdflatex"
+  "build/informe.toc" 1765434426.77146 4305 c971ef8afebbad999379328f6f0069b1 "pdflatex"
+  "informe.tex" 1765434289.59491 27729 d8d12490b4b161673e149dff7feb7b38 ""
   (generated)
   "build/informe.aux"
   "build/informe.log"
