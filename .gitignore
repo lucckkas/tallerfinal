@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.env
+*.pyc
+ml/data/
+ml/artifacts/*.joblib
+ml/artifacts/*.json
+node_modules/
+frontend/node_modules/
+frontend/dist/

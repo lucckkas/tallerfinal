@@ -1,0 +1,25 @@
+version: "1.0.0"
+random_seed: 42
+sample_rate_hz: 50
+window_seconds: 5
+window_overlap_seconds: 2.5
+excluded_subjects_demo:
+    - 1
+    - 8
+train_val_test_split:
+    train_ratio: 0.6
+    val_ratio: 0.2
+    test_ratio: 0.2
+features:
+    stats: [mean, std, min, max, median, mad, energy]
+model:
+    type: random_forest
+    n_estimators: 200
+    max_depth: null
+    class_weight: balanced
+artifacts:
+    dir: ml/artifacts
+    model_path: ml/artifacts/model.joblib
+    feature_metadata: ml/artifacts/features.json
+    metrics: ml/artifacts/metrics.json
+    model_info: ml/artifacts/model_info.json
